@@ -1,0 +1,14 @@
+table{
+
+    table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid purple;
+}
+table>td {
+  color: rgb(243, 15, 15);
+}
+ td {
+  border: 1px solid;
+  color: blue;
+}
