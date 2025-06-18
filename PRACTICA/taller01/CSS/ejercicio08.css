@@ -1,0 +1,27 @@
+* {
+  margin: 5px;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.contenedor {
+      background-color: yellow;
+  color: rgb(255, 255, 255);
+ 
+
+  width: 80%;
+  height: 80%;
+
+   padding: 30px;
+ border: 3px solid rgb(231, 25, 25);
+
+ 
+margin: 10px 20px 30px 40px;
+margin: 30px;
+;
+}
+.derecha {
+margin: 20px;
+}
+.arriba {
+margin-left: auto;
+}
